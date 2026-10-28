@@ -34,4 +34,3 @@ XAMPP with PHP 8+ and MySQL/MariaDB. Enable `pdo_mysql` in PHP if disabled.
 
 ## Git
 Use `git init`, add a `.gitignore`, commit the source and push to a private/public repository as required by your instructor. GitHub is for source control; GitHub Pages does not execute PHP. See `Practical_Assessment_3/DEPLOYMENT_GUIDE.md` for a PHP-compatible hosting route.
-# agribusiness

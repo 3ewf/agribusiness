@@ -1,9 +1,2 @@
 <?php require_once __DIR__.'/includes/bootstrap.php'; if($_SERVER['REQUEST_METHOD']==='POST'){verify_csrf();$email=strtolower(trim($_POST['email']??''));$pass=$_POST['password']??'';$st=$pdo->prepare('SELECT * FROM users WHERE email=?');$st->execute([$email]);$u=$st->fetch();if($u&&password_verify($pass,$u['password_hash'])){session_regenerate_id(true);$_SESSION['user']=['id'=>(int)$u['id'],'name'=>$u['name'],'email'=>$u['email'],'role'=>$u['role']];redirect($u['role']==='admin'?'admin.php':($u['role']==='farmer'?'farmer.php':'catalogue.php'));}flash('error','Email or password is incorrect.');}include __DIR__.'/includes/header.php'; ?>
-<section class="auth-wrap"><form class="panel auth-panel" method="post"><span class="eyebrow">WELCOME BACK</span><h1>Log in to Agribusiness</h1><?= csrf_field() ?><?= show_flash() ?><label>Email address</label><input type="email" name="email" required autocomplete="username"><label>Password</label><input type="password" name="password" required autocomplete="current-password"><button class="btn" type="submit">Log in</button><p>New to Agribusiness? <a href="register.php">Create an account</a></p><p class="muted">Admin demo account is documented in README; change it before any public deployment.</p></form></section><?php include __DIR__.'/includes/footer.php'; ?><?php
-require_once 'db.php';
-
-
-        
-
-        
-          
+<section class="auth-wrap"><form class="panel auth-panel" method="post"><span class="eyebrow">WELCOME BACK</span><h1>Log in to Agribusiness</h1><?= csrf_field() ?><?= show_flash() ?><label>Email address</label><input type="email" name="email" required autocomplete="username"><label>Password</label><input type="password" name="password" required autocomplete="current-password"><button class="btn" type="submit">Log in</button><p>New to Agribusiness? <a href="register.php">Create an account</a></p><p class="muted">Admin demo account is documented in README; change it before any public deployment.</p></form></section><?php include __DIR__.'/includes/footer.php'; ?>
