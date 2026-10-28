@@ -4,6 +4,11 @@ RUN docker-php-ext-install mysqli pdo pdo_mysql
 
 RUN a2enmod rewrite
 
+# Update Apache DocumentRoot to point to the agribusiness folder
+ENV APACHE_DOCUMENT_ROOT /var/www/html/agribusiness
+RUN sed -ri -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
+RUN sed -ri -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/conf-available/*.conf
+
 COPY . /var/www/html/
 
 RUN chown -R www-data:www-data /var/www/html/ && chmod -R 775 /var/www/html/
