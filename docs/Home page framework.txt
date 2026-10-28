@@ -1,0 +1,39 @@
++-----------------------------------------------------------------------+
+|  [LOGO: Agribusiness]          [Home] [Catalogue] [Login] [Register] [Cart]|
++-----------------------------------------------------------------------+
+|                                                                       |
+|                                                                       |
+|                     [ HERO SECTION ]                         |
+|                                                                       |
+|               "Fresh From The Farm To Your Table"                     |
+|        "Connecting smallholder farmers directly with buyers."         |
+|                                                                       |
+|                  [ BUTTON: Browse Produce ]                           |
+|                                                                       |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|  [ SECTION: How It Works ]                                            |
+|                                                                       |
+|  +----------------+   +----------------+   +----------------+         |
+|  |  [Icon: User]  |   | [Icon: Search] |   |  [Icon: Cart]  |         |
+|  |  1. Register   |   | 2. Find Produce|   |  3. Order      |         |
+|  |  as Farmer/Buyer|  |  Browse items  |   |  Directly from |         |
+|  |                |   |                |   |  the source    |         |
+|  +----------------+   +----------------+   +----------------+         |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|  [ SECTION: Featured Produce ]                                        |
+|                                                                       |
+|  +----------------+   +----------------+   +----------------+         |
+|  | [Image]        |   | [Image]        |   | [Image]        |         |
+|  | Tomatoes       |   | Maize          |   | Avocados       |         |
+|  | KES 120/unit   |   | KES 50/unit    |   | KES 30/unit    |         |
+|  | [View Details] |   | [View Details] |   | [View Details] |         |
+|  +----------------+   +----------------+   +----------------+         |
+|                                                                       |
++-----------------------------------------------------------------------+
+|  [FOOTER]                                                             |
+|  About Us | Contact Us | Farmer Profiles | © 2026 AgriHub         |
++-----------------------------------------------------------------------+

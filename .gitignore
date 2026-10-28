@@ -1,0 +1,8 @@
+# Secrets / local configuration
+.env
+config.local.php
+*.log
+.DS_Store
+Thumbs.db
+# Do not commit real customer exports or uploaded private documents
+uploads/

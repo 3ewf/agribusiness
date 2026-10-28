@@ -1,0 +1,30 @@
++-----------------------------------------------------------------------+
+|  [LOGO :Agribusiness]          [Home] [Catalogue] [Login] [Register] [Cart]|
++-----------------------------------------------------------------------+
+|                                                                       |
+|                     [ CENTERED FORM CONTAINER ]                       |
+|                                                                       |
+|                   ** CREATE AN ACCOUNT / LOGIN **                     |
+|                                                                       |
+|    [ Label: I am a: ]                                                 |
+|    [ Dropdown: Farmer / Buyer / Admin        v ]                      |
+|                                                                       |
+|    [ Label: First Name ]                                              |
+|    [ Input: _______________________________ ]                        |
+|                                                                       |
+|    [ Label: Last Name ]                                               |
+|    [ Input: _______________________________ ]                        |
+|                                                                       |
+|    [ Label: Email Address ]                                           |
+|    [ Input: _______________________________ ]                        |
+|                                                                       |
+|    [ Label: Password ]                                                |
+|    [ Input: ******************************* ]                        |
+|                                                                       |
+|    [ BUTTON: Register / Login ]  (Full Width)                         |
+|                                                                       |
+|    Already have an account? [Link: Login Here]                        |
+|                                                                       |
++-----------------------------------------------------------------------+
+|  [FOOTER]                                                             |
++-----------------------------------------------------------------------+

@@ -1,0 +1,32 @@
++-----------------------------------------------------------------------+
+|  [LOGO: Agribusiness]          [Home] [Catalogue] [Login] [Register] [Cart]|
++-----------------------------------------------------------------------+
+|                                                                       |
+|  [ HEADING: Produce Catalogue ]                                       |
+|                                                                       |
+|  [ SEARCH BAR: Search for produce...             ] [ BUTTON: Search ] |
+|                                                                       |
+|  [ FILTERS: Category v ] [ Price Range v ] [ Location v ]             |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|  [ PRODUCT GRID ]                                                     |
+|                                                                       |
+|  +----------------+   +----------------+   +----------------+         |
+|  | [Image]        |   | [Image]        |   | [Image]        |         |
+|  | Fresh Tomatoes |   | Sweet Maize    |   | Ripe Avocados  |         |
+|  | KES 120/unit   |   | KES 50/unit    |   | KES 30/unit    |         |
+|  | Farmer: John   |   | Farmer: Mary   |   | Farmer: Peter  |         |
+|  | [View] [Add]   |   | [View] [Add]   |   | [View] [Add]   |         |
+|  +----------------+   +----------------+   +----------------+         |
+|                                                                       |
+|  +----------------+   +----------------+   +----------------+         |
+|  | [Image]        |   | [Image]        |   | [Image]        |         |
+|  | Red Onions     |   | Cabbage        |   | Carrots        |         |
+|  | KES 80/unit    |   | KES 40/unit    |   | KES 60/unit    |         |
+|  | [View] [Add]   |   | [View] [Add]   |   | [View] [Add]   |         |
+|  +----------------+   +----------------+   +----------------+         |
+|                                                                       |
++-----------------------------------------------------------------------+
+|  [FOOTER]                                                             |
++-----------------------------------------------------------------------+

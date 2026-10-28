@@ -1,0 +1,36 @@
++-----------------------------------------------------------------------+
+|  [LOGO: Agribusiness]          [Home] [Catalogue] [Login] [Register] [Cart]|
++-----------------------------------------------------------------------+
+|                                                                       |
+|  [ BREADCRUMB: Home > Catalogue > Vegetables > Fresh Tomatoes ]       |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|  [ LEFT COLUMN ]                     [ RIGHT COLUMN ]                 |
+|                                                                       |
+|  +-----------------------+           ** Fresh Tomatoes **             |
+|  |                       |           Category: Vegetables            |
+|  |                       |           Price: KES 120 / unit            |
+|  |    [ LARGE IMAGE ]    |           Availability: 50 units          |
+|  |                       |                                           |
+|  |                       |           [ FARMER PROFILE BOX ]          |
+|  |                       |           +-----------------------------+ |
+|  |                       |           | [Avatar] John Kamau         | |
+|  |                       |           | Location: Nakuru            | |
+|  +-----------------------+           | [Link: View Profile]        | |
+|                                      +-----------------------------+ |
+|                                      Quantity: [ - ] [ 1 ] [ + ]     |
+|                                                                       |
+|                                      [ BUTTON: Add to Cart ]          |
+|                                                                       |
+|                                      [ BUTTON: Contact Farmer ]       |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|  [ SECTION: Product Description ]                                     |
+|  Fresh, organic tomatoes harvested daily from local farms in Nakuru.  |
+|  Perfect for households, hotels, and schools.                         |
+|                                                                       |
++-----------------------------------------------------------------------+
+|  [FOOTER]                                                             |
++-----------------------------------------------------------------------+
